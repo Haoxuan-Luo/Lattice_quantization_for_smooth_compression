@@ -1,7 +1,7 @@
-# Lattice Quantization for Smooth Compression: Euclidean and KL Quantizers
+# Quantization and Codebook Stability of Euclidean and KL Lattice Quantizers
 
-Long version accompanying the conference submission  
-**"Lattice Quantization for Smooth Compression: Euclidean and KL Quantizers."**
+Long version accompanying the conference submission
+"Quantization and Codebook Stability of Euclidean and KL Lattice Quantizers."
 
 Haoxuan Luo, Ryan Gabrys, and Farzad Farnoud
 
